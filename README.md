@@ -43,11 +43,11 @@ console.log('I have created many projects related to web development');
 
 - [x] Getting enrolled in an internship
 
-- [] Learning Python
+- [ ] Learning Python
 
-- [] Creating projects related to Python
+- [ ] Creating projects related to Python
 
-- [] Achieving 4 starts on Code chef
+- [ ] Achieving 4 starts on Code chef
 
 ---
 
