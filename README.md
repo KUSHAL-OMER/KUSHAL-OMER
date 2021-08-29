@@ -33,21 +33,21 @@ console.log('I have created many projects related to web development');
 
 ### My To Do List
 
-. [x] Start doing development
+- [x] Start doing development
 
-. [x] Uploading at least three projects on GitHub
+- [x] Uploading at least three projects on GitHub
 
-. [x] Learning basics of web development
+- [x] Learning basics of web development
 
-. [x] Learning mobile app development
+- [x] Learning mobile app development
 
-. [x] Getting enrolled in an internship
+- [x] Getting enrolled in an internship
 
-. [] Learning Python
+- [] Learning Python
 
-. [] Creating projects related to Python
+- [] Creating projects related to Python
 
-. [] Achieving 4 starts on Code chef
+- [] Achieving 4 starts on Code chef
 
 ---
 
