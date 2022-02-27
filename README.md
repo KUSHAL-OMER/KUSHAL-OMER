@@ -47,8 +47,6 @@ console.log('I have created many projects related to web development');
 
 - [ ] Creating projects related to Python
 
-- [ ] Achieving 4 starts on Code chef
-
 ---
 
 ### Special quotes
