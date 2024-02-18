@@ -31,7 +31,7 @@
 - [X] Achieved 5⭐ on Hackerrank in Java and Problem Solving.
 - [X] Achieved 2⭐ on Codechef.
 - [X] Solved more than 300 questions on LeetCode.
-- [X] Runner-up 🥉 in E-Bootathon 3 conducted by Dr. APJ Abdul Kalam University and IIT Kanpur in 2020.
+- [X] Runner-up 🥉 in E-Bootathon 3 conducted by Dr. APJ Abdul Kalam Technical University and IIT Kanpur in 2020.
 
 # Links 🔗
 - 📧 [kushalomer06@gmail.com](kushalomer06@gmail.com)
