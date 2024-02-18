@@ -1,56 +1,42 @@
-## Hello, my name is Kushal Omer👋
+# Hello, my name is Kushal Omer 👋
 
+- 💼 I'm currently working as an associate engineer at Nagarro.
+- 📖 Enhancing my soft skills and technical skills.
+- 📦 Creating projects related to web.
+- 💬 Ask me about web development, Java, data structures, algorithms and other computer stuff.
 
-- 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning React Native and Python
-- 👯 I’m looking to collaborate on GitHub and other communities
-- 🤔 I’m looking for help with Stack overflow, You tube and Google
-- 💬 Ask me about web development, Java and other Computer Science stuff
-- 📫 How to reach me: gmail- [kushalomer06@gmail.com](kushalomer06@gmail.com)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I like, listening music and to spend some time in nature.
+## Programming Languages
 
----
+<image src="./images/java.png" alt="java" width="100px">
+<image src="./images/javascript.png" alt="javascript" width="100px">
+<image src="./images/python.png" alt="python" width="80px">
+<image src="./images/typescript.png" alt="typescript" width="80px">
 
-### Let's do some code
+## Frame-works :
 
-``` java
-System.out.println ("I do competitive coding in java");
-```
+<image src="./images/expressjs.png" alt="expressjs" width="150px">
+<image src="./images/spring.png" alt="spring" width="80px">
+<image src="./images/angular.png" alt="angular" width="80px">
 
-```c
-printf("Some times I prefer to code in C language");
-```
+## Libraries
 
-``` python
-print ('I am learning python')
-```
+<image src="./images/react.png" alt="reactjs" width="120px">
+<image src="./images/threejs.png" alt="threejs" width="120px">
+<image src="./images/bootstrap.png" alt="bootstrap" width="80px">
+<image src="./images/maven.png" alt="maven" width="150px">
 
-```javascript
-console.log('I have created many projects related to web development');
-```
----
+## Databases
 
-### My To Do List
+<image src="./images/mysql.png" alt="mysql" width="150px">
+<image src="./images/mongodb.png" alt="mongodb" width="150px">
+<image src="./images/oracle.png" alt="oracle" width="120px">
 
-- [x] Start doing development
+# Achievements 🏆
+- [X] Achieved 5⭐ on Hackerrank in Java and Problem Solving.
+- [X] Achieved 2⭐ on Codechef.
+- [X] Solved more than 300 questions on LeetCode.
+- [X] Runner-up 🥉 in E-Bootathon 3 conducted by Dr. APJ Abdul Kalam University and IIT Kanpur in 2023.
 
-- [x] Uploading at least three projects on GitHub
-
-- [x] Learning basics of web development
-
-- [x] Learning mobile app development
-
-- [x] Getting enrolled in an internship
-
-- [ ] Learning Python
-
-- [ ] Creating projects related to Python
-
----
-
-### Special quotes
-
->When We Focus on the Good, the Good gets Better.
-
->Where we started doesn't matter, where we finish matters.
+# Links 🔗
+- 📧 [kushalomer06@gmail.com](kushalomer06@gmail.com)
+- 📫 [https://www.linkedin.com/in/kushal-omer-322647213](https://www.linkedin.com/in/kushal-omer-322647213)
