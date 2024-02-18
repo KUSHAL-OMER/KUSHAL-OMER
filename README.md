@@ -7,28 +7,24 @@
 
 ## Programming Languages
 
-<image src="./images/java.png" alt="java" width="100px">
-<image src="./images/javascript.png" alt="javascript" width="100px">
+<image src="./images/java.png" alt="java" width="100px"><image src="./images/javascript.png" alt="javascript" width="100px">
 <image src="./images/python.png" alt="python" width="80px">
 <image src="./images/typescript.png" alt="typescript" width="80px">
 
 ## Frame-works :
 
-<image src="./images/expressjs.png" alt="expressjs" width="150px">
-<image src="./images/spring.png" alt="spring" width="80px">
+<image src="./images/expressjs.png" alt="expressjs" width="150px"><image src="./images/spring.png" alt="spring" width="80px">
 <image src="./images/angular.png" alt="angular" width="80px">
 
 ## Libraries
 
-<image src="./images/react.png" alt="reactjs" width="120px">
-<image src="./images/threejs.png" alt="threejs" width="120px">
+<image src="./images/react.png" alt="reactjs" width="120px"><image src="./images/threejs.png" alt="threejs" width="120px">
 <image src="./images/bootstrap.png" alt="bootstrap" width="80px">
 <image src="./images/maven.png" alt="maven" width="150px">
 
 ## Databases
 
-<image src="./images/mysql.png" alt="mysql" width="150px">
-<image src="./images/mongodb.png" alt="mongodb" width="150px">
+<image src="./images/mysql.png" alt="mysql" width="150px"><image src="./images/mongodb.png" alt="mongodb" width="150px">
 <image src="./images/oracle.png" alt="oracle" width="120px">
 
 # Achievements 🏆
